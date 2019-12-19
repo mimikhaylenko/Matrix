@@ -1,0 +1,11 @@
+D:\dotNet\Task_19\TheMatrixReloaded\bin\Debug\netcoreapp3.0\TheMatrixReloaded.exe
+D:\dotNet\Task_19\TheMatrixReloaded\bin\Debug\netcoreapp3.0\TheMatrixReloaded.deps.json
+D:\dotNet\Task_19\TheMatrixReloaded\bin\Debug\netcoreapp3.0\TheMatrixReloaded.runtimeconfig.json
+D:\dotNet\Task_19\TheMatrixReloaded\bin\Debug\netcoreapp3.0\TheMatrixReloaded.runtimeconfig.dev.json
+D:\dotNet\Task_19\TheMatrixReloaded\bin\Debug\netcoreapp3.0\TheMatrixReloaded.dll
+D:\dotNet\Task_19\TheMatrixReloaded\bin\Debug\netcoreapp3.0\TheMatrixReloaded.pdb
+D:\dotNet\Task_19\TheMatrixReloaded\obj\Debug\netcoreapp3.0\TheMatrixReloaded.csprojAssemblyReference.cache
+D:\dotNet\Task_19\TheMatrixReloaded\obj\Debug\netcoreapp3.0\TheMatrixReloaded.AssemblyInfoInputs.cache
+D:\dotNet\Task_19\TheMatrixReloaded\obj\Debug\netcoreapp3.0\TheMatrixReloaded.AssemblyInfo.cs
+D:\dotNet\Task_19\TheMatrixReloaded\obj\Debug\netcoreapp3.0\TheMatrixReloaded.dll
+D:\dotNet\Task_19\TheMatrixReloaded\obj\Debug\netcoreapp3.0\TheMatrixReloaded.pdb

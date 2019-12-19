@@ -1,0 +1,11 @@
+D:\dotNet\Task_19\Matrix\obj\Debug\netcoreapp3.0\Matrix.csprojAssemblyReference.cache
+D:\dotNet\Task_19\Matrix\obj\Debug\netcoreapp3.0\Matrix.AssemblyInfoInputs.cache
+D:\dotNet\Task_19\Matrix\obj\Debug\netcoreapp3.0\Matrix.AssemblyInfo.cs
+D:\dotNet\Task_19\Matrix\bin\Debug\netcoreapp3.0\Matrix.exe
+D:\dotNet\Task_19\Matrix\bin\Debug\netcoreapp3.0\Matrix.deps.json
+D:\dotNet\Task_19\Matrix\bin\Debug\netcoreapp3.0\Matrix.runtimeconfig.json
+D:\dotNet\Task_19\Matrix\bin\Debug\netcoreapp3.0\Matrix.runtimeconfig.dev.json
+D:\dotNet\Task_19\Matrix\bin\Debug\netcoreapp3.0\Matrix.dll
+D:\dotNet\Task_19\Matrix\bin\Debug\netcoreapp3.0\Matrix.pdb
+D:\dotNet\Task_19\Matrix\obj\Debug\netcoreapp3.0\Matrix.dll
+D:\dotNet\Task_19\Matrix\obj\Debug\netcoreapp3.0\Matrix.pdb
